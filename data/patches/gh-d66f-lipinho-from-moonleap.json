@@ -1,0 +1,61 @@
+{
+	"id": 3841,
+	"name": "Lipinho From Moonleap",
+	"description": "Moonleap is a puzzle plataformer game created by brazilian youtuber Botão Select. In it, the moon-boy nicknamed Lipinho, is on his journey to recover shooting stars, being able to switch between day and night by jumping. The game is available for PC, Android, IOS and Nintendo Switch",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/2166050/Moonleap/",
+			"https://www.youtube.com/@BotaoSelect"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				233,
+				389
+			],
+			[
+				241,
+				389
+			],
+			[
+				244,
+				393
+			],
+			[
+				244,
+				401
+			],
+			[
+				243,
+				406
+			],
+			[
+				240,
+				408
+			],
+			[
+				233,
+				408
+			],
+			[
+				231,
+				406
+			],
+			[
+				229,
+				401
+			],
+			[
+				229,
+				393
+			]
+		]
+	},
+	"center": {
+		"254": [
+			237,
+			399
+		]
+	}
+}
